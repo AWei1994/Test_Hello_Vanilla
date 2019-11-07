@@ -1,0 +1,972 @@
+
+
+.persona2 {
+  width               : 100%;
+  min-width           : 1360px;
+  height              : 100vh;
+  min-height          : 800px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.persona2 .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -243px;
+  height              : 1281px;
+  width               : 1865px;
+  position            : absolute;
+  margin              : 0;
+  left                : -253px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.persona2 .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 800px;
+  width               : 639px;
+  position            : absolute;
+  margin              : 0;
+  left                : 401px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.persona2 .rectangle4 {
+  background-color    : rgba(252, 252, 252, 1.0);
+  top                 : 161px;
+  height              : 160px;
+  width               : 639px;
+  position            : absolute;
+  margin              : 0;
+  left                : 401px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.persona2 .rectangle4copy {
+  background-color    : rgba(252, 252, 252, 1.0);
+  top                 : 640px;
+  height              : 160px;
+  width               : 639px;
+  position            : absolute;
+  margin              : 0;
+  left                : 401px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.persona2 .u201cu4ee5u524du53eau662fu6765u5546u573au4e70u4e1cu897fu7684uff0cu73b0u5728u7684u5546u573au6210u4e86 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 705px;
+  height              : auto;
+  width               : 488px;
+  position            : absolute;
+  margin              : 0;
+  left                : 480px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(43, 43, 43, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.persona2 .rectangle3 {
+  background-color    : rgba(245, 246, 246, 1.0);
+  top                 : 322px;
+  height              : 318px;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 399px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.persona2 .u83b7u5f97u66f4u4f18u8d28u7684u7ebfu4e0bu670du52a1uff1bu5c1du8bd5u66f4u65b0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 416px;
+  height              : auto;
+  width               : 215px;
+  position            : absolute;
+  margin              : 0;
+  left                : 467px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(43, 43, 43, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.persona2 .u4f4eu9ad8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 419px;
+  height              : 161px;
+  width               : 57px;
+  position            : absolute;
+  margin              : 0;
+  left                : 813px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.persona2 .u4f4eu9ad8 .u4f4e {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 105px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(96, 200, 76, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.persona2 .u4f4eu9ad8 .u4e2du7b49 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 70px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 28px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(147, 147, 147, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.persona2 .u4f4eu9ad8 .u9ad8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 35px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(147, 147, 147, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.persona2 .u4f4eu9ad8 .u5f88u9ad8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(147, 147, 147, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.persona2 .u4f4eu9ad8 .a1u5f88u4f4e {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 141px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(96, 200, 76, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.persona2 .u4f4eu9ad8 .a2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 105px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(96, 200, 76, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.persona2 .u4f4eu9ad8 .a3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 70px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(147, 147, 147, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.persona2 .u4f4eu9ad8 .a4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 35px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(147, 147, 147, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.persona2 .u4f4eu9ad8 .a5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(147, 147, 147, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.persona2 .u5708u5708 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 422px;
+  height              : 155px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 770px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.persona2 .u5708u5708 .line2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : 126px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.persona2 .u5708u5708 .oval2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 98px;
+  height              : 29px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.23;
+}
+.persona2 .u5708u5708 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 140px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.persona2 .u5708u5708 .ovalcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 105px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.persona2 .u5708u5708 .ovalcopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.42;
+}
+.persona2 .u5708u5708 .ovalcopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 35px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.42;
+}
+.persona2 .u5708u5708 .ovalcopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 70px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.42;
+}
+.persona2 .u9700u8981u5ea6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 367px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 778px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Semibold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(43, 43, 43, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.persona2 .rectangle2 {
+  background-color    : rgba(96, 199, 76, 1.0);
+  top                 : 0px;
+  height              : 320px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1040px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.persona2 .rectangle2copy {
+  background-color    : rgba(54, 54, 54, 1.0);
+  top                 : 320px;
+  height              : 480px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1040px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.persona2 .u667au6167u5316u7684u5546u573au53efu4ee5u63d0u4f9bu66f4u4e2au6027u5316u7684u4f18u8d28u670du52a1uff1b {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 86px;
+  height              : auto;
+  width               : 226px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1086px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.persona2 .u4e2au4ebau7684u9690u79c1u4fe1u606fu53efu80fdu4e0du53d7u4fddu62a4uff0cu4e14u5728u4e0du7ecfu610fu95f4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 400px;
+  height              : auto;
+  width               : 226px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1086px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.persona2 .label1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 85px;
+  height              : auto;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1052px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : right;
+  line-height         : 20.0px;
+}
+.persona2 .label2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 400px;
+  height              : auto;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1052px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : right;
+  line-height         : 20.0px;
+}
+.persona2 .u76eeu7684 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 365px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 479px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Semibold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(43, 43, 43, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.persona2 .u5fc3u6001 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 671px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 479px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Semibold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(43, 43, 43, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.persona2 .u963bu529b {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 354px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1086px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Semibold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.persona2 .u6307u6807 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 263px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 479px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Semibold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(43, 43, 43, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.persona2 .u6d88u8d39u8005u6d88u8d39u670du52a1u4f53u9a8cu8005 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 189px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 647px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(43, 43, 43, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.persona2 .u4f18u79c0u7684u670du52a1u8d28u91cfu5546u4e1au7efcu5408u4f53u7684u4ebau6c14u5ea6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 268px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 647px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(43, 43, 43, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.persona2 .line3copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 193px;
+  height              : 12px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 694px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.persona2 .line3copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 272px;
+  height              : 12px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 750px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.persona2 .u804cu80fd {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 187px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 479px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Semibold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(43, 43, 43, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.persona2 .u8eabu4e3a90u540eu7684u6768u5ce5u70edu7231u65c5u884cuff0cu559cu6b22u5c1du8bd5u65b0u9c9cu4e8b {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 77px;
+  height              : auto;
+  width               : 521px;
+  position            : absolute;
+  margin              : 0;
+  left                : 477px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(43, 43, 43, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.persona2 .u80ccu666f {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 36px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 479px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Semibold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(43, 43, 43, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.persona2 .u52a8u56e0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 36px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1086px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Semibold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.persona2 .u201c {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 441px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "ArialHebrew-Bold", Helvetica, Arial, serif;
+  font-size           : 100.0px;
+  color               : rgba(81, 200, 58, 1.0);
+  text-align          : center;
+  line-height         : 107.0px;
+}
+.persona2 .u201c1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 647px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 441px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "ArialHebrew-Bold", Helvetica, Arial, serif;
+  font-size           : 100.0px;
+  color               : rgba(159, 158, 158, 1.0);
+  text-align          : center;
+  line-height         : 107.0px;
+}
+.persona2 .adultboycasual220453 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 800px;
+  width               : 401px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.persona2 .adultboycasual220453 .mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 800px;
+  width               : 401px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.77;
+}
+.persona2 .adultboycasual220453 .adultboycasual2204531 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -311px;
+  height              : 3571px;
+  width               : 2380px;
+  position            : absolute;
+  margin              : 0;
+  left                : -990px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.persona2 .rectangle5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 588px;
+  height              : 212px;
+  width               : 399px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.persona2 .a25u5728u8bfbu7814u7a76u751f {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 659px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 134px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Medium", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.persona2 .u4e0au6d77u4e2du56fd {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 701px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 157px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Medium", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.persona2 .u6768u5ce5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 591px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 134px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Medium", Helvetica, Arial, serif;
+  font-size           : 49.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 69.0px;
+}
+.persona2 .u65c5u884cu7231u597du8005 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 725px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 154px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Regular", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.persona2 .case {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 187px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 439px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.persona2 .stats {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 265px;
+  height              : 23px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 439px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.persona2 .idea {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 366px;
+  height              : 25px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 439px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.persona2 .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 238px;
+  height              : 3px;
+  width               : 560px;
+  position            : absolute;
+  margin              : 0;
+  left                : 440px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
